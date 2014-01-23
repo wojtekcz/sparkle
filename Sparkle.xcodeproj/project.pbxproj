@@ -1391,7 +1391,7 @@
 			buildSettings = {
 				CLANG_ANALYZER_DEADCODE_DEADSTORES = NO;
 				CLANG_ANALYZER_SECURITY_INSECUREAPI_MKSTEMP = NO;
-				CODE_SIGN_IDENTITY = "Developer ID Application";
+				CODE_SIGN_IDENTITY = "Developer ID Application: Pawel Wisniewski (VXQUTF83AC)";
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
 			};
@@ -1402,7 +1402,7 @@
 			buildSettings = {
 				CLANG_ANALYZER_DEADCODE_DEADSTORES = NO;
 				CLANG_ANALYZER_SECURITY_INSECUREAPI_MKSTEMP = NO;
-				CODE_SIGN_IDENTITY = "Developer ID Application";
+				CODE_SIGN_IDENTITY = "Developer ID Application: Pawel Wisniewski (VXQUTF83AC)";
 				SDKROOT = macosx;
 			};
 			name = Release;
@@ -1509,7 +1509,7 @@
 			buildSettings = {
 				CLANG_ANALYZER_DEADCODE_DEADSTORES = NO;
 				CLANG_ANALYZER_SECURITY_INSECUREAPI_MKSTEMP = NO;
-				CODE_SIGN_IDENTITY = "Developer ID Application";
+				CODE_SIGN_IDENTITY = "Developer ID Application: Pawel Wisniewski (VXQUTF83AC)";
 				SDKROOT = macosx;
 			};
 			name = "Release (GC dual-mode; 10.5+)";
