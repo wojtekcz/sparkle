@@ -25,6 +25,10 @@
 @end
 
 
+@interface SUUpdateAlert () <WebFrameLoadDelegate, WebPolicyDelegate>
+
+@end
+
 @implementation SUUpdateAlert
 
 - (id)initWithAppcastItem:(SUAppcastItem *)item host:(SUHost *)aHost
